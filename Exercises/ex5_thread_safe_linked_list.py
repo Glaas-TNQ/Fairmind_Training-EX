@@ -1,11 +1,3 @@
-# Exercise 5: Thread-Safe Linked List Implementation
-# --------------------------------------------------
-# This custom linked list enforces a max size and uses thread locks for safe
-# concurrent appends. Review this as a systems developer for performance,
-# memory efficiency, and potential race conditions or data structure improvements.
-
-
-
 import threading
 
 class Node:

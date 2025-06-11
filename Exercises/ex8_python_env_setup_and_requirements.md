@@ -1,8 +1,3 @@
-# Exercise 8: Virtual Environment Setup and Dependency Management
-# ---------------------------------------------------------------
-# This is not an executable script, but a documentation reference to Python
-# virtual environments and pip requirements. 
-
 Python Env Creation:
 python -m venv environment_name
 

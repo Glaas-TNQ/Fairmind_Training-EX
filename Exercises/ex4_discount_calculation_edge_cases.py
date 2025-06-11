@@ -1,9 +1,3 @@
-# Exercise 4: Discount Calculation and Edge Case Analysis
-# -------------------------------------------------------
-# A basic function to apply percentage-based discounts. Your task as a tester
-# is to explore boundary conditions, input validation, and potential failure
-# modes, such as negative prices or over-100% discounts.
-
 def calculatediscount(price, discount):
    if discount > 100:
        raise ValueError('Discount cannot exceed 100%')

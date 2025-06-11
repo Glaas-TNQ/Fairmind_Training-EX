@@ -1,9 +1,3 @@
-# Exercise 7: HTTP Request Handling with Basic Error Management
-# -------------------------------------------------------------
-# This script fetches the content of a URL with basic exception handling.
-# Consider edge cases like timeout, redirects, and user-agent headers
-# when assessing this for production readiness or CLI tool wrapping.
-
 import requests
 
 def fetch_url_content(url):

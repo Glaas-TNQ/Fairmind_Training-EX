@@ -1,9 +1,3 @@
-# Exercise 6: Binary Tree with Insertion and In-Order Traversal
-# -------------------------------------------------------------
-# This exercise builds a classic binary search tree. Evaluate the structure and
-# identify missing features (e.g., deletion, balance) that would be necessary
-# for robust use in production.
-
 class TreeNode:
     def __init__(self, key):
         self.left = None
